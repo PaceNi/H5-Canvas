@@ -1,0 +1,14 @@
+*,*:before,*:after{margin:0;padding:0;}
+body{width:900px;margin:0 auto;padding:10px;background:#FFFFFF;color:#000000;font-family:Georgia;}
+.cdiv {
+  position: relative;
+  width: 900px;
+  height: 600px;
+  border: 1px solid #000;
+
+}
+#can {
+  position: absolute;
+  top: 0;
+  left: 0;
+}

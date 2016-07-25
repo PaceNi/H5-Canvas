@@ -1,0 +1,27 @@
+			body {
+				margin: 0 auto;
+
+				text-align: center;
+				background: white;
+				width: 600px;
+  				height:400px;						}
+			#can {border: 1px dotted #000000;
+			
+			}
+			#fengche {border: 1px dotted #000000;
+			
+			}
+			#center{border: 1px dotted #000000;}
+			.cdiv{
+
+				position: relative;
+				width: 600px;
+  				height:400px;
+  				border: 1px ;
+  				clear: both;
+			}
+			canvas{
+				position: absolute;
+				top: 0;
+				left: 0;
+			}
